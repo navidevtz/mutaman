@@ -1,0 +1,15 @@
+/* mutaman group custom styles */
+
+body {
+    font-family: 'Tajawal', sans-serif;
+    direction: rtl;
+}
+
+.hero {
+    background-image: url('img/hero.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
