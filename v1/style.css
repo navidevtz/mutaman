@@ -1,0 +1,17 @@
+.hero {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  
+  #business img, #agro-economics img, #logistics img {
+    max-height: 400px;
+    object-fit: cover;
+  }
+  
+  footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
