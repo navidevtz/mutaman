@@ -1,0 +1,17 @@
+/* Custom Styles */
+.hero {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+#divisions img {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
