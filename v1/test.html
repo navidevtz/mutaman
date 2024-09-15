@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overlay Div Example</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .container {
+            position: relative; /* Establishes a positioning context */
+            height: 300px; /* Set a height for the container */
+            margin-top: 50px; /* Add some top margin */
+        }
+        .base-div {
+            background-color: #007BFF; /* Base div color */
+            height: 100%; /* Full height of the container */
+        }
+        .overlay-div {
+            position: absolute; /* Position it absolutely within the container */
+            top: 20px; /* Position from the top */
+            left: 20px; /* Position from the left */
+            background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+            padding: 20px; /* Padding for the overlay */
+            border: 1px solid #ccc; /* Optional border */
+            z-index: 1; /* Ensure it is above the base div */
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="base-div"></div>
+    <div class="overlay-div">
+        <h3>Overlay Title</h3>
+        <p>This is an overlay div on top of the base div.</p>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
