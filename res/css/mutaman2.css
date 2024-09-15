@@ -23,7 +23,7 @@ body {
 .hero {
     background-image: url('img/hero.jpg');
     background-size: cover;
-    height: 100vh;
+    /* height: 100vh; */
     display: flex;
     justify-content: center;
     align-items: center;
