@@ -1,5 +1,10 @@
 /* mutaman group custom styles */
 
+:root {
+    --red : #800000;
+    --orange : #e96200;
+}
+
 body {
     font-family: 'Tajawal',sans-serif !important;
     direction: ltr;
@@ -8,6 +13,11 @@ body {
     /* margin: 20px; */
     /* padding: 20px; */
     background-color: #f4f4f4;
+}
+
+#moutamanLogo {
+    height: 100px;
+    width: auto;
 }
 
 .hero {
