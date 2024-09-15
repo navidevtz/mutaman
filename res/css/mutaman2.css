@@ -55,6 +55,13 @@ body {
     color : var(--red);
 }
 
+.links {
+    color : var(--orange) !important;
+}
+
+.links :hover {
+    color: var(--red);
+}
 h1 {
     color: #333;
     color: var(--orange);
