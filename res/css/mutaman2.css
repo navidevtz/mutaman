@@ -36,6 +36,12 @@ body {
     padding: 20px;
     background-color: #f4f4f4;
 } */
+
+.subtitle {
+    color : var(--orange);
+    font-weight : 400;
+}
+
 h1 {
     color: #333;
     color: var(--orange);
