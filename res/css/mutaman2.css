@@ -1,8 +1,12 @@
 /* mutaman group custom styles */
 
 body {
-    font-family: 'Tajawal', sans-serif;
+    font-family: 'Tajawal',sans-serif !important;
     direction: ltr;
+    line-height: 1.6;
+    /* margin: 20px; */
+    /* padding: 20px; */
+    background-color: #f4f4f4;
 }
 
 .hero {
