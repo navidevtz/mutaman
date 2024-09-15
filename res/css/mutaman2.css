@@ -20,6 +20,10 @@ body {
     width: auto;
 }
 
+#moutamanFtLogo {
+    height: 250px;
+    width: auto;
+}
 .hero {
     background-image: url('img/hero.jpg');
     background-size: cover;
