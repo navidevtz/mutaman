@@ -1,0 +1,22 @@
+# 1
+Make this better and replace "PIL Logistics" with "Al Mutaman Logistics"
+
+"With a plan of being one of the leading pan African IogistiCS solutions, PIL Logistics Sudan aim to offer a COmplete and comprehensive logistics solutions to all our clients based in the African Continent. With numerous Inland Transportation operations, PIL Logistics is a key player in strengthen- ing Sudan‘s supply chain.
+
+PIL Logistics is working hard to empow- er customers’ movements within Africa to contribute towards developing solutions to logistic problems faced due to the poor infrastruCture in the Continent.
+
+Our Digitally transformed fleet management system, our experienced personnel will help our customers wove produCts in between Africa."
+
+
+#2 Group overview
+
+<p>
+        Al Mutaman Logistics is on a mission to become a leading pan-African logistics solutions provider. We are dedicated to delivering complete and comprehensive logistics services to our clients across the African continent. With a robust network of inland transportation operations, Al Mutaman Logistics plays a pivotal role in enhancing Sudan's supply chain.
+      <br>
+      <p>
+        We are committed to empowering our customers by facilitating seamless movements within Africa, addressing the logistical challenges posed by the continent's infrastructure limitations. 
+      </p>
+      <br>
+      <p>
+        Our digitally transformed fleet management system, combined with our experienced personnel, ensures that we effectively support our customers in transporting goods across Africa. At Al Mutaman Logistics, we strive to develop innovative solutions that meet the evolving needs of our clients and contribute to the growth of the region.
+      </p>
