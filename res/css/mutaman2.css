@@ -42,6 +42,11 @@ body {
     font-weight : 600;
 }
 
+.brand {
+    color : var(--orange);
+    font-weight : 600;
+}
+
 h1 {
     color: #333;
     color: var(--orange);
@@ -58,10 +63,10 @@ p {
     font-size: 2rem;
 }
 
-#loghero {
+/* #loghero {
     position: relative;
 }
 #logabout {
     position: absolute;
     z-index: 1;
-}
+} */
