@@ -29,6 +29,7 @@ body {
     height: 250px;
     width: auto;
 }
+
 .hero {
     background-image: url('img/hero.jpg');
     background-size: cover;
@@ -60,6 +61,11 @@ body {
     color : var(--red);
 }
 
+.nav-link :hover {
+    color : var(--orange) !important;
+    font-weight: 600;
+}
+
 .links {
     color : var(--orange) !important;
 }
@@ -67,13 +73,16 @@ body {
 .links :hover {
     color: var(--red);
 }
+
 h1 {
     color: #333;
     color: var(--orange);
 }
+
 p {
     color: #555;
 }
+
 .highlight {
     font-weight: bold;
     color: #007BFF;
