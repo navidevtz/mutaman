@@ -15,6 +15,11 @@ body {
     background-color: #f4f4f4;
 }
 
+.home-jumbo {
+    background-image: url('../images/tranport and agri.png');
+    background-repeat: no-repeat;
+}
+
 #moutamanLogo {
     height: 100px;
     width: auto;
